@@ -3,6 +3,8 @@
 ## Project Overview
 This project was developed as part of **CSE200: Computer-Aided Engineering Drawing**, a course offered by **East West University**. The project is inspired by **Gokuldham Society**, a well-known residential society from the popular Indian television serial **_Taarak Mehta Ka Ooltah Chashmah_**. The objective of this project was to recreate the society in a **3D architectural model** using **AutoCAD**, demonstrating skills in engineering drawing, 3D modeling, and visualization.
 
+![3D View of Gokuldham Society](3D-Gokuldham-Society/GokuldhamSociety.jpg)
+
 ---
 
 ## Tools & Technologies
