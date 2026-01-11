@@ -47,6 +47,3 @@ Instructor:
 -  Website: https://sites.google.com/view/MiskatHossain8
 -  Facebook: https://www.facebook.com/MiskatHossain8/
 -  LinkedIn: https://www.linkedin.com/in/miskathossain8/
-
-## Reference
-- Developed for **CSE110: Object-Oriented Programming, East West University**.
